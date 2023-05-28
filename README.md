@@ -9,10 +9,12 @@
   K-Means algoritması bölütleme mesafeye dayalı bir unsupervised learning(gözetimsiz öğrenme) kümeleme algoritmasıdır. 
   K-Means algoritmasında kümeleme sonucu küme içindeki veriler birbirine oldukça yakın; farklı küme içindeki noktaların birbirine uzak olması amaçlanır.
   Algoritma temel olarak 4 aşamadan oluşur :
-    •	Küme merkezleri belirlenir
-    •	Merkez dışındaki örneklerin küme merkezlerine olan mesafeleri hesaplanır ve örnekler en kısa mesafe olan merkeze atanacak şekilde kümelenir.
-    •	Yapılan kümelemeye göre yeni merkezler belirlenir
-    •	Kararlı hale gelene kadar 2. ve 3. Adımlar tekrarlanır.
+    <ul>
+     <li>Küme merkezleri belirlenir</li>
+     <li>Merkez dışındaki örneklerin küme merkezlerine olan mesafeleri hesaplanır ve örnekler en kısa mesafe olan merkeze atanacak şekilde kümelenir.</li>
+     <li>Yapılan kümelemeye göre yeni merkezler belirlenir</li>
+     <li>Kararlı hale gelene kadar 2. ve 3. Adımlar tekrarlanır.</li>
+    </ul>
 </p>  
 
 <p>Dataset</p>
